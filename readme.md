@@ -67,5 +67,5 @@ int main(void)
 
 * 维护人：liuxx
 * 邮箱：1300650671@qq.com
-* 软件包主页：https://gitee.com/liuxx_gitee/rg-power.git
+* 软件包主页：https://github.com/1300650671/RgPower.git
 
